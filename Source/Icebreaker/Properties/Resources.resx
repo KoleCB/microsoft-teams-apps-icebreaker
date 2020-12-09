@@ -126,11 +126,11 @@
     <comment>A generic message that is sent when there is an error occurring</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart1" xml:space="preserve">
-    <value>If you're reading this, it's most likely because {0} added me to the **{1} Team.**</value>
+    <value>If you're reading this, you've been added to the **{1} Team.**</value>
     <comment>Install message and also the welcome message when the app installer is known - {0} is the placeholder for the name of the user that has installed the app to the team, and {1} is the placeholder for the name of the team that the app has been installed to</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart2" xml:space="preserve">
-    <value>I get to help you meet more people around your organization by randomly pairing you with someone new every week. You get to make more friends and learn about the people you work with. It's a win-win-*win* situation.</value>
+    <value>The Icebreaker bot will help you meet your colleagues by pairing you at random with a coworker every two weeks for a 15-minute virtual coffee break. You'll make new friends and catch up with old ones—it's a great way to expand your network.</value>
     <comment>Part 2 of the install message when the name of the installer is known</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart3" xml:space="preserve">
@@ -138,11 +138,11 @@
     <comment>Part 3 of the install message with the name of the installer known</comment>
   </data>
   <data name="InstallMessageUnknownInstallerPart1" xml:space="preserve">
-    <value>If you're reading this, it's because I was installed to **{0} Team.** </value>
+    <value>If you're reading this, it's because you've joined the **{0} Team.** </value>
     <comment>Install message and also the welcome message when the app installer is not known - {0} is the placeholder for the name of the team that the app has been installed to</comment>
   </data>
   <data name="InstallMessageUnknownInstallerPart2" xml:space="preserve">
-    <value>I get to help you meet more people around your organization by randomly pairing you with someone new every week. You get to make more friends and learn about the people you work with. It's a win-win-*win* situation.</value>
+    <value>The Icebreaker bot will help you meet your colleagues by pairing you at random with a coworker every two weeks for a 15-minute virtual coffee break. You'll make new friends and catch up with old ones—it's a great way to expand your network.</value>
     <comment>Part 2 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="InstallMessageUnknownInstallerPart3" xml:space="preserve">
@@ -150,7 +150,7 @@
     <comment>Part 3 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
-    <value>Hi there again, I'm {0} in {1}. A bot that pairs you with a new coworker to meet each week. This week your match is {2}.</value>
+    <value>Hi there again, I'm {0} in {1}. A bot that pairs you with a new coworker to meet ever two weeks. This week your match is {2}.</value>
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
@@ -166,7 +166,7 @@
     <comment>The title text for the pairup notification adaptive card</comment>
   </data>
   <data name="MeetupContent" xml:space="preserve">
-    <value>Hey there, looks like we've been matched by {0} this week. It'd be great to meet up for a coffee or a lunch or a call if you've got time.</value>
+    <value>Hey there, looks like we've been matched by {0} this week. It'd be great if you gave them a call or booked a meeting if you've got time.</value>
     <comment>Content of the Meetup for the propose meeting</comment>
   </data>
   <data name="MeetupTitle" xml:space="preserve">
