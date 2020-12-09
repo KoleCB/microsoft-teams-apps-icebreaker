@@ -150,11 +150,11 @@
     <comment>Part 3 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
-    <value>Hi there again, I'm {0}, a bot that pairs you with a new coworker to meet every two weeks. This week your match is {2}.</value>
+    <value> Hi there, it's Icebreaker here, a bot that pairs you at random with a coworker every two weeks. I'm happy to match you with {2}.</value>
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
-    <value>If you've got the inclination, set something up. See, meeting people *is* easy!</value>
+    <value>If you're available, set up a 15-minute virtual coffee break and enjoy chatting with your coworker. Have fun!</value>
     <comment>Second part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardMatchedText" xml:space="preserve">
